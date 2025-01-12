@@ -1,8 +1,8 @@
 const version = require("@whiskeysockets/baileys/package.json").version
 //Input number for pair code
-global.pairingNumber = "2349036325074"
+global.pairingNumber = "242041029122"
 
-global.botNumber = ["2349036325074"]
+global.botNumber = ["242041029122"]
 global.domain = "https://.nobodysey.me"
 global.apikey = "ptla_DfGlmoY7jCzmkNUgyK925FPVE08Kr4mxwLMep"
 global.capikey = "ptlc_GTm42E3qIwbLW3K9w3htljUvhGvnG71hoPTqE"
@@ -12,9 +12,9 @@ global.anticall = false
 global.autoReadChat = false
 global.alwaysonline = true
 global.autoswview = false
-global.public = true
+global.public = false
 global.autoreact = false
-global.antidelete = false
+global.antidelete = true
 global.autotyping = false
 global.autoBio = true
 global.antiSpam = true
@@ -38,7 +38,7 @@ global.web = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 //setbot
 global.botName = "𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍 𝐕𝟒" 
 global.wm = "𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍 𝐕𝟒"
-global.fake = botName
+global.fake = MGᴶᴼᵞᴮᴼᵞᴳᵒᵈ
 global.setmenu = "image" 
 global.docType = "application/vnd.ms-excel"
 global.themeemoji = '❄️'
@@ -47,7 +47,7 @@ global.fotoRandom = [
 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_KpekxrXL95vx4t9Ur6n4NRxxcrLAZWE-mA&usqp=CAU"]
 global.baileysMd = true
 global.multi = false
-global.prefa = "!"
+global.prefa = "&"
 global.Console = false
 global.autorespon = false
 global.copyright = `BLUE DEMON BOT`
